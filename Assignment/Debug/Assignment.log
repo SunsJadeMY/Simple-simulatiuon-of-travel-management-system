@@ -1,0 +1,9 @@
+﻿  源.cpp
+D:\project code\Assignment\源.cpp(340,25): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\project code\Assignment\源.cpp(679,13): warning C4305: “参数”: 从“int”到“const _Elem”截断
+          with
+          [
+              _Elem=char
+          ]
+D:\project code\Assignment\源.cpp(679,7): warning C4309: “参数”: 截断常量值
+  Assignment.vcxproj -> D:\project code\Assignment\Debug\Assignment.exe

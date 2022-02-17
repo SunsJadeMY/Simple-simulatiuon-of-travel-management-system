@@ -1,0 +1,4 @@
+sbw 8000 Shanghai
+sjf 3190 UnitedKingdom Netherlands Italy 
+wjc 3980 UnitedKingdom Netherlands Italy Portugal 
+cy 6590 Finland Sweden Norway Iceland Denmark UnitedKingdom Netherlands 
